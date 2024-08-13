@@ -1,0 +1,12 @@
+venv/
+*.pth
+yolov5/
+saved_detect_model/
+saved_reader_model/
+/images/data
+/images/bilinear_images_4x375
+/images/bilinear_images_5x350
+/images/bilinear_images_5x375
+/images/bilinear_images_5x400
+/images/bilinear_images_5x500
+*.cache
